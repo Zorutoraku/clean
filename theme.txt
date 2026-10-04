@@ -1,0 +1,18 @@
+title-text: ""
+desktop-color: "#000000"
+terminal-font: "DejaVu Sans Book 40"
+
++ boot_menu {
+    left = 50%-300
+    top = 50%-140
+    width = 600
+    height = 280
+    item_font = "DejaVu Sans Book 40"
+    item_color = "#808080"
+    selected_item_color = "#ffffff"
+    icon_width = 96
+    icon_height = 96
+    item_icon_space = 30
+    item_height = 128
+    item_spacing = 24
+}
